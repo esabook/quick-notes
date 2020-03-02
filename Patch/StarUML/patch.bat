@@ -1,0 +1,1 @@
+..\hpatchz.exe -f "C:\Program Files\StarUML\resources\app.asar" star_uml_v3.2.2.patch "C:\Program Files\StarUML\resources\app.asar"
